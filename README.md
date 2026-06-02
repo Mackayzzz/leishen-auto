@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 这是一个用Go语言编写的雷神加速器（NN加速器）自动暂停工具，通过GitHub Actions自动运行，无需本地环境配置。
+update 20260602
 
 ## 🚀 快速开始
 
